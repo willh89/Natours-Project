@@ -34,15 +34,19 @@ It also helped me understand more advanced CSS techniques such as animation, how
 
 ### Requirements
 
-You will need to have [Nodejs](https://nodejs.org/en/) in your system.
+You will need to intall [Nodejs](https://nodejs.org/en/) to run this.
 
 Check the documentation to install it on your system.
 
 ### Installation
 
-<img width=1080 height=300 src="screenshots/screenshot-1.PNG" alt="Project logo"></a>
+Once Node.Js is installed, you can see all necessary scripts in the package.json file.
+Before running anything you will need to install a live server extention.
 
-Once Node Js is installed, you can see all necessary scripts in the package.json file.
+Open the terminial in your code editor and run:
+- npm install live-server --save-dev -w
+- npm run build:css
+- npm run start
 
 ```
 
@@ -63,7 +67,7 @@ package.json
 
 ## 🎈 Usage <a name="usage"></a>
 
-You can make changes in the components inside the sass folder.
+Changes can be made in the components SASS folder.
 Run **npm watch:sass** to see in the browser all the changes that you do in the page.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
@@ -75,7 +79,7 @@ Run **npm watch:sass** to see in the browser all the changes that you do in the 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@willh89](https://github.com/willh89) - Build by
+- [@willh89](https://github.com/willh89) - Built by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
