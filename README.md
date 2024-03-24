@@ -90,4 +90,4 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 - CSS Udemy Jonas Course
 - [Advanced CSS Course](https://github.com/jonasschmedtmann)
 
-![](Natours-Project/img/Natours-collage.png)
+![](img/Natours-collage.png)
