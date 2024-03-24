@@ -21,7 +21,7 @@
 
 </p>
 
-![](Omnifood-Project/img/omnifood-versions.png)
+![](Natours-SASS-Project/img/Natours-collage.png)
 
 ## 📝 Table of Contents
 
