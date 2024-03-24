@@ -21,7 +21,7 @@
 
 </p>
 
-[!](Natours-SASS-Project/img/Natours-collage.png)
+![](Natours-SASS-Project/img/Natours-collage.png)
 
 ## 📝 Table of Contents
 
