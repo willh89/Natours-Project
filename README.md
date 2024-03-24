@@ -4,6 +4,7 @@
 </p>
 
 <h3 align="center">Natours Project</h3>
+  #### [Click here for live site](https://wills-natours-project.netlify.app/)
 
 <div align="center">
 
@@ -16,8 +17,6 @@
 
 <p align="center"> Exciting tours for adventurous people
     <br> 
-  
-  #### [Click here for live site](https://wills-natours-project.netlify.app/)
 
 </p>
 
