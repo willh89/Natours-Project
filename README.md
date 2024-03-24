@@ -92,3 +92,4 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 - CSS Udemy Jonas Course
 - [Advanced CSS Course](https://github.com/jonasschmedtmann)
 
+![](Omnifood-Project/img/omnifood-versions.png)
