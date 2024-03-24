@@ -40,7 +40,7 @@ Check the documentation to install it on your system.
 
 ### Installation
 
-Once Node.Js is installed, you can see all necessary scripts in the package.json file.
+Once Node.js is installed, you can see all necessary scripts in the package.json file.
 Before running anything you will need to install a live server extension.
 
 Open the terminial in your code editor and run:
