@@ -19,8 +19,6 @@
       
 #### [Click here for live site](https://wills-natours-project.netlify.app/)
 
- <p style="text-align:center"> [Click here for live site](https://wills-natours-project.netlify.app/)</p>
-
 </p>
 
 ## 📝 Table of Contents
