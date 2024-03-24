@@ -3,7 +3,7 @@
  <img width=200px height=200px src="img/favicon.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Natours Project</h3>
+<h1 align="center">Natours Project</h1>
 
 <div align="center">
 
