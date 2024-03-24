@@ -90,5 +90,4 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- CSS Udemy Jonas Course
-- [Advanced CSS Course](https://github.com/jonasschmedtmann)
+ [Advanced CSS Course](https://github.com/jonasschmedtmann)
