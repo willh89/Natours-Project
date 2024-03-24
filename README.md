@@ -41,7 +41,7 @@ Check the documentation to install it on your system.
 ### Installation
 
 Once Node.Js is installed, you can see all necessary scripts in the package.json file.
-Before running anything you will need to install a live server extention.
+Before running anything you will need to install a live server extension.
 
 Open the terminial in your code editor and run:
 - npm install live-server --save-dev -w
@@ -68,7 +68,7 @@ package.json
 ## 🎈 Usage <a name="usage"></a>
 
 Changes can be made in the components SASS folder.
-Run **npm watch:sass** to see in the browser all the changes that you do in the page.
+Run **npm watch:sass** to see in the browser all changes made in real time. 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
