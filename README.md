@@ -19,7 +19,6 @@
       
 #### [Click here for live site](https://wills-natours-project.netlify.app/)
 
-    <br> 
 
 </p>
 
