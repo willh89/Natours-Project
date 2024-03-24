@@ -11,13 +11,14 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-  #### [Click here for live site](https://wills-natours-project.netlify.app/)
+  ### [Click here for live site](https://wills-natours-project.netlify.app/)
   
-    <br> 
 ---
 
 <p align="center"> Exciting tours for adventurous people
     <br> 
+
+      ### [Click here for live site](https://wills-natours-project.netlify.app/)
 
 </p>
 
