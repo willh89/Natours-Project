@@ -27,9 +27,9 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Usage](#usage)
 - [Requirements](#Requirements)
 - [Installation](#Installation)
+- [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
