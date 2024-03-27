@@ -108,8 +108,8 @@ Run **npm watch:sass** to see in the browser all changes made in real time.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [HTML] - Markup Language
-- [CSS] - Stylesheets
+- HTML - Markup Language
+- CSS - Stylesheets
 - [SASS](https://sass-lang.com/) - CSS Preprocessor
 - [Node.js](https://sass-lang.com/) - CSS Preprocessor
 
