@@ -42,7 +42,7 @@ It also helped me understand more advanced CSS techniques such as animation, how
 
 ### Requirements
 
-You will need to intall [Node.js](https://nodejs.org/en/) to run this.
+You will need to install [Node.js](https://nodejs.org/en/) to run this.
 
 Check the documentation to install it on your system.
 
