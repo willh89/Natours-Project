@@ -46,16 +46,43 @@ You will need to intall [Node.js](https://nodejs.org/en/) to run this.
 
 Check the documentation to install it on your system.
 
+
 ### Installation
 
-Once Node.js is installed, you can see all necessary scripts in the package.json file.
-Before running anything you will need to install a live server extension.
+Once Node.js is installed, you will need several extensions to run this project.
 
-Open the terminial in your code editor and run:
-- npm install live-server --save-dev -w
-- npm run build:css
-- npm run start
+Open the terminal/command-line in your code editor, then install the following:
 
+```
+npm install node-sass ---save-dev
+```
+
+```
+npm install postcss --save-dev
+```
+
+```
+npm install npm-run-all --save-dev
+```
+
+```
+npm install live-server --save-dev -w
+```
+
+Once the above are installed run the following commands:
+
+```
+npm run build:css
+```
+
+```
+npm run start
+```
+
+```
+npm watch:sass
+```
+Once installed, all following commands in the **package.json** file should function correctly.  
 ```
 
 "scripts": {
@@ -73,10 +100,11 @@ package.json
 
 ```
 
-## 🎈 Usage <a name="usage"></a>
+### Usage 
 
 Changes can be made in the components SASS folder.
 Run **npm watch:sass** to see in the browser all changes made in real time. 
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
